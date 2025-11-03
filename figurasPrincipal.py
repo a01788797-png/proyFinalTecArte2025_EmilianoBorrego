@@ -1,4 +1,3 @@
-import pandas as pd
 import math
 from funciones import triangulo, rectangulo, circulo
 

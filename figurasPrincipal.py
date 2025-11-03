@@ -1,4 +1,5 @@
 import math
+import pandas as pd
 from funciones import triangulo, rectangulo, circulo
 
 dataFile = pd.read_csv("figuras.csv")
